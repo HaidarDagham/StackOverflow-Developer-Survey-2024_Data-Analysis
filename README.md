@@ -6,17 +6,17 @@
 
 * Tools & Technologies Used:
 
-• Python Libraries: `pandas`, `numpy`, `seaborn`, `matplotlib`, `plotly`, `sqlite3`.
-
-• Notebook Environments: Jupyter Notebook.
-
-• SQL & Querying: SQL syntax for data querying and filtering.
-
-• Cloud Platforms: IBM Cloud.
-
-• BI & Visualization Tools: IBM Cognos Analytics, PowerPoint.
-
-• Version Control: Git & GitHub.
+  • Python Libraries: `pandas`, `numpy`, `seaborn`, `matplotlib`, `plotly`, `sqlite3`.
+  
+  • Notebook Environments: Jupyter Notebook.
+  
+  • SQL & Querying: SQL syntax for data querying and filtering.
+  
+  • Cloud Platforms: IBM Cloud.
+  
+  • BI & Visualization Tools: IBM Cognos Analytics, PowerPoint.
+  
+  • Version Control: Git & GitHub.
 
 ________________________________________
 
