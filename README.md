@@ -159,6 +159,6 @@ The insights serve as a valuable resource for developers, educators, recruiters,
 📬 Contact
 
 For questions or feedback, feel free to connect with me:  
-📧 Haidar@dagham.com  
+📧 Haidar@Dagham.com  
 
 
