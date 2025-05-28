@@ -159,8 +159,6 @@ The insights serve as a valuable resource for developers, educators, recruiters,
 📬 Contact
 
 For questions or feedback, feel free to connect with me:  
-📧 DaghamHaidar@gmail.com  
-🔗 [GitHub – HaidarDagham
-(https://github.com/haidardagham)
+📧 Haidar@dagham.com  
 
 
