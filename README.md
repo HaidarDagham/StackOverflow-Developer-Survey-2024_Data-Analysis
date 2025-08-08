@@ -20,6 +20,22 @@ In this lab, we will work with a subset of the original dataset to explore, anal
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <strong>'Current Technology Usage'</strong><br>
+  <img src="dashboards/01 Current Technology Usage.png" width="800" alt="Desktop Screenshot">
+</p>
+<p align="center">
+  <strong>'Future Technology Trend'</strong><br>
+  <img src="dashboards/02 Future Technology Trend.png" width="800" alt="Desktop Screenshot">
+</p>
+<p align="center">
+  <strong>'Demographics'</strong><br>
+  <img src="dashboards/03 Demographics.png" width="800" alt="Desktop Screenshot">
+</p>
+---
+
 📌 Dataset Source
 
 The dataset is available as part of the Stack Overflow Developer Survey under an Open Database License (ODbL).
